@@ -1,3 +1,4 @@
+
 {
     "Freddy": {
         "Type": "Single",
@@ -724,28 +725,28 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 0,
-                "Cooldown": 1,
+                "Cooldown": 1
                 "DamageBoost": 1.06
             },
             {
                 "Price": 1700,
                 "Range": 15,
                 "Damage": 0,
-                "Cooldown": 1,
+                "Cooldown": 1
                 "DamageBoost": 1.12
             },
             {
                 "Price": 2200,
                 "Range": 15,
                 "Damage": 0,
-                "Cooldown": 1,
+                "Cooldown": 1
                 "DamageBoost": 1.18
             },
             {
                 "Price": 2500,
                 "Range": 15,
                 "Damage": 0,
-                "Cooldown": 1,
+                "Cooldown": 1
                 "DamageBoost": 1.24
             }
         ]
